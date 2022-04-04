@@ -3736,4 +3736,11 @@ module.exports = [
       "Beginner",
     ],
   },
+  {
+    name: 'The Feqy',
+    description: 'Sharing my own thoughts and expertise about backend/frontend engineering.',
+    url: 'https://feqy.medium.com/',
+    twitter: '@thefeqy',
+    tags: ['JavaScript', 'Laravel', 'PHP', 'Microservices', 'NodeJS', 'Web Development'],
+  }
 ];
